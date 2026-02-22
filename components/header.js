@@ -17,19 +17,19 @@ class Header extends HTMLElement {
               <a class="nav-link" href="/">Home</a>
             </li>
             <li class="nav-item mr-2">
-              <a class="nav-link" href="pages/research.html">Research</a>
+              <a class="nav-link" href="/pages/research.html">Research</a>
             </li> 
             <li class="nav-item mr-2">
-              <a class="nav-link" href="pages/publications.html">Publications</a>
+              <a class="nav-link" href="/pages/publications.html">Publications</a>
             </li>
             <li class="nav-item mr-2">
-              <a class="nav-link" href="pages/teaching.html">Teaching</a>
+              <a class="nav-link" href="/pages/teaching.html">Teaching</a>
             </li>
             <li class="nav-item mr-2">
-              <a class="nav-link" href="pages/cv.html">CV</a>
+              <a class="nav-link" href="/pages/cv.html">CV</a>
             </li>
             <li class="nav-item mr-2">
-              <a class="nav-link" href="pages/blogposts.html">Outreach</a>
+              <a class="nav-link" href="/pages/blogposts.html">Outreach</a>
             </li>
           </ul>
         </div>
