@@ -12,7 +12,7 @@ class Header extends HTMLElement {
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="navbar-collapse collapse" id="navbarCollapse" style="">
-          <ul class="navbar-nav ml-auto">
+          <ul class="navbar-nav ml-auto text-right">
             <li class="nav-item mr-2">
               <a class="nav-link" href="/">Home</a>
             </li>
